@@ -7,3 +7,6 @@ docker-compose.yml.*
 www/*
 !www/localhost/
 logs/*
+www/localhost/CAS-1.3.8/*
+www/localhost/apereo/*
+www/localhost/phpcas/*

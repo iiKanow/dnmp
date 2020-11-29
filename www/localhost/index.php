@@ -1,4 +1,5 @@
 <?php
+error_log('test', 1, '/tmp/phpCAS.log');
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
